@@ -37,4 +37,4 @@ Graças à combinação dos *lags*, o modelo atingiu uma precisão cirúrgica (c
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/helderedias/mobilidade.git](https://github.com/helderedias/mobilidade.git)
