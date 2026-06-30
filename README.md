@@ -6,7 +6,7 @@ Este projeto propõe um modelo preditivo preliminar para estimar a demanda horá
 Sistemas ferroviários possuem uma capacidade de transporte massiva: uma única composição cheia do Ramal Japeri acomoda cerca de **1.200 a 1.300 passageiros** nos horários de pico. Em contrapartida, um ônibus urbano convencional comporta cerca de **80 pessoas** (menos de 10% da capacidade do trem).
 
 Qualquer flutuação ou atraso não planejado na malha ferroviária exige o deslocamento imediato de até **15 ônibus extras** no asfalto para suprir a demanda pendular, gerando um severo impacto viário nas artérias de trânsito. A previsão exata da curva de passageiros permite:
-* Dimensionamento cirúrgico de frotas de ônibus alimentadores/integração.
+* Dimensionamento cirúrgico das frotas de ônibus alimentadores/integração.
 * Alocação estratégica de trens vazios reguladores partindo de estações intermediárias.
 * Mitigação do impacto no tráfego urbano da Baixada Fluminense e acessos à capital.
 
