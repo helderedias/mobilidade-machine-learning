@@ -22,7 +22,7 @@ Qualquer flutuação ou atraso não planejado na malha ferroviária exige o desl
 
 ## 📊 Modelagem e Resultados
 
-Para evitar vazamento de dados (*data leakage*), o conjunto foi ordenado e dividido de forma **estritamente temporal** (sem embaralhamento), separando o histórico final para validação.
+Para evitar vazamento de dados (*data leakage*), o conjunto foi ordenado e dividido de forma **estritamente temporal** (sem embaralhamento), separando o histórico final para validação. Observe que o erro médio é de apenas aproximadamente 7 passageiros.
 
 ### Algoritmo Utilizado
 Foi implementado um modelo de **Regressão Linear Autorregressiva** utilizando os recursos de memória temporal criados na etapa de engenharia de recursos. 
