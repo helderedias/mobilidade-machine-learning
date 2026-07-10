@@ -3,7 +3,7 @@
 Este projeto propõe um modelo preditivo preliminar para estimar a demanda horária de passageiros no **Eixo Baixada Fluminense - Central do Brasil**, com foco no fluxo pendular do **Ramal Japeri** a partir de Nova Iguaçu. O objetivo principal é fornecer inteligência de dados para otimização operacional e planejamento logístico de transportes.
 
 ## 🛠️ O Problema de Engenharia de Transportes
-Sistemas ferroviários possuem uma capacidade de transporte massiva: uma única composição cheia do Ramal Japeri acomoda cerca de **1.200 a 1.300 passageiros** nos horários de pico. Em contrapartida, um ônibus urbano convencional comporta cerca de **80 pessoas** (menos de 10% da capacidade do trem).
+Sistemas ferroviários possuem uma capacidade de transporte massiva: uma única composição cheia do Ramal Japeri acomoda cerca de **1.200 a 1.300 passageiros** nos horários de pico. Em contrapartida, um ônibus urbano convencional comporta aproximadamente **80 pessoas** (menos de 10% da capacidade do trem).
 
 Qualquer flutuação ou atraso não planejado na malha ferroviária exige o deslocamento imediato de até **15 ônibus extras** no asfalto para suprir a demanda pendular, gerando um severo impacto viário nas artérias de trânsito. A previsão exata da curva de passageiros permite:
 * Dimensionamento cirúrgico das frotas de ônibus alimentadores/integração.
