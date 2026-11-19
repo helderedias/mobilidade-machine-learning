@@ -31,7 +31,7 @@ Foi implementado um modelo de **Regressão Linear Autorregressiva** utilizando o
 * **Erro Médio Absoluto (MAE):** `7.46e+00` (~7.46 passageiros)
 * **Raiz do Erro Quadrático Médio (RMSE):** Desempenho estável e alinhado ao MAE, indicando ausência de erros discrepantes no conjunto de teste.
 
-Graças à combinação dos *lags*, o modelo atingiu uma precisão cirúrgica (com erro estatisticamente insignificante diante do volume total transportado), tornando-o viável para tomadas de decisão operacionais em tempo real.
+Graças à combinação dos *lags*, o modelo atingiu uma precisão cirúrgica (com erro estatisticamente insignificante diante do volume total transportado), tornando-o viável para tomadas de decisão operacionais em tempo real
 
 ## 🚀 Como Executar o Projeto
 
