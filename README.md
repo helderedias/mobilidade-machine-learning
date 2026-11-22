@@ -37,7 +37,7 @@ Qualquer flutuação não prevista equivalente a uma única composição exige a
 | Métrica | Descrição | Resultado (Teste) |
 | :--- | :--- | :--- |
 | **MAE** | Erro Médio Absoluto | **~7,46 passageiros** |
-| **RMSE** | Raiz do Erro Quadrático Médio | **~7,46 passageiros** |
+| **RMSE** | Raiz do Erro Quadrático Médio | **~7,46 passageiros** 
 
 O erro médio inferior a 8 passageiros representa uma variação estatisticamente desprezível frente à capacidade de uma composição (~1.250 passageiros), viabilizando a tomada de decisão operacional em tempo real com baixíssimo custo computacional.
 
